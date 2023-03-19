@@ -37,3 +37,5 @@ myCustomer.lastName = "Dixon";
 console.log(`Customer name is ${myCustomer.firstName} ${myCustomer.lastName}`);
 
 //adding some code comment
+
+//new os, try a commit
