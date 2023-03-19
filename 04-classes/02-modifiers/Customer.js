@@ -31,3 +31,4 @@ myCustomer.firstName = "Martin";
 myCustomer.lastName = "Dixon";
 console.log("Customer name is ".concat(myCustomer.firstName, " ").concat(myCustomer.lastName));
 //adding some code comment
+//new os, try a commit
