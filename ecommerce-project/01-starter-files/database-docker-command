@@ -1,0 +1,1 @@
+docker run --detach --env MYSQL_ROOT_PASSWORD=test --env MYSQL_USER=ecommerceapp' --env MYSQL_PASSWORD=ecommerceapp --env MYSQL_DATABASE=full-stack-ecommerce --name full-stack-ecommerce --publish 3306:3306 mysql:8.0
